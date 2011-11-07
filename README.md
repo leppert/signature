@@ -7,6 +7,8 @@ Usage
 -----
 Mostly mirrors the [Ruby gem](https://github.com/mloughran/signature)
 
+    var Signature = require('signature');
+
     var request = new Signature.Request(method, path, params),
         token   = request.authenticate(function(key){
             return new Signature.Token(key, get_creds(key).secret);
