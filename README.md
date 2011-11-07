@@ -3,6 +3,10 @@ Signature for Node.js
 Ported line for line from the Ruby gem
 [Signature](https://github.com/mloughran/signature)
 
+Installation
+------------
+Signature can be found and installed through NPM: <http://search.npmjs.org/#/signature>
+
 Usage
 -----
 Mostly mirrors the [Ruby gem](https://github.com/mloughran/signature)
