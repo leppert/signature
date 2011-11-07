@@ -1,7 +1,7 @@
 {
   "name": "signature",
   "description": "Simple key/secret based authentication for apis, ported from the Ruby gem of the same name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/leppert/signature",
   "author": "Greg Leppert <greg@formasfunction.com>",
   "repository": {
